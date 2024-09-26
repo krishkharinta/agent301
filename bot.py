@@ -20,7 +20,7 @@ class Agent:
         self.line = base.create_line(length=50)
 
         # Initialize banner
-        self.banner = base.create_banner(game_name="Agent 301")
+        self.banner = base.create_banner("DOINK")
 
         # Get config
         self.auto_do_task = base.get_config(

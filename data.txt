@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A6279115441%2C%22first_name%22%3A%22Krish%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%22%2C%22username%22%3A%22Krishkharinta%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-6149773446129045119&chat_type=sender&auth_date=1727263066&hash=4e37ee9fc3d78a71b2730fd20ceabaf33631003e9c32fb864b7002de012cc0c6 
